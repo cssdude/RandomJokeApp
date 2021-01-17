@@ -1,3 +1,3 @@
 # Display Random Joke using Fetch API
 
-## [Demo](https://cssdude.github.io/JokeApp/)
+## [Demo](https://cssdude.github.io/RandomJokeApp/)
